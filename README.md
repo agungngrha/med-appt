@@ -1,26 +1,27 @@
-##StayHealthy - Healthcare Service Application
-A modern web application built with React that allows patients to book appointments with doctors, manage their profiles, and provide reviews for medical services.
+# StayHealthy - Healthcare Service Application
 
-##Project Information
-Project Name: StayHealthy
+StayHealthy is a comprehensive healthcare platform designed to simplify the process of booking doctor appointments and managing patient records.
 
-Platform: Web-based Application
+## Project Overview
+This repository contains the frontend implementation for the StayHealthy capstone project. It includes features for user authentication, doctor searching, and appointment scheduling.
 
-##Key Features:
+## Features
+- **User Authentication**: Secure Sign Up and Login functionality.
+- **Doctor Search**: Search for doctors based on specialty.
+- **Appointment Booking**: Easy-to-use forms for scheduling consultations.
+- **Reviews**: System for patients to provide feedback on medical services.
 
-User Registration and Authentication
+## Repository Details
+- **Project Name**: StayHealthy
+- **Repository Name**: med-appt
 
-Doctor Search and Filtering
+## Setup and Installation Instructions
 
-Appointment Booking System
+### Prerequisites
+- **Node.js** (v18.x or higher)
+- **npm** (v9.x or higher)
 
-Review and Feedback Management
-
-Patient Profile Management
-
-##Prerequisites
-Before you begin, ensure you have met the following requirements:
-
-You have installed Node.js (v18 or higher) and npm.
-
-You have a Docker environment if you wish to run the application via containerization.
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/agungngrha/med-appt.git](https://github.com/agungngrha/med-appt.git)
+cd med-appt
